@@ -1,4 +1,4 @@
-# 🖐️ AI-Powered Hand Gesture Mouse Control
+# 🖐️ Hand Gesture Mouse Control
 
 ## 🤖 Project Genesis
 This project was **developed using AI technologies**, demonstrating the potential of AI-assisted software development. By leveraging advanced computer vision and machine learning models, we've created an innovative human-computer interaction solution.
